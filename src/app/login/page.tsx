@@ -17,7 +17,7 @@ export default function LoginPage() {
       <Card className="mx-auto max-w-sm w-full">
         <CardHeader className="text-center">
           <div className="flex justify-center mb-4">
-            <Image src="/ittc-logo.jpg" alt="Iron Temple Training Center Logo" width={64} height={64} className="rounded-full" />
+            <Image src="/ittc-logo.jpg" alt="Iron Temple Training Center Logo" width={64} height={64} />
           </div>
           <CardTitle className="text-2xl font-headline">Login</CardTitle>
           <CardDescription>
