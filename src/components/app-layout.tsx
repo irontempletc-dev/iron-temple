@@ -59,7 +59,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
         </div>
       </div>
       <div className="flex flex-col">
-        <header className="flex h-14 items-center gap-4 border-b bg-background/60 dark:bg-background/80 px-4 lg:h-[60px] lg:px-6 sticky top-0 z-10">
+        <header className="relative z-10 flex h-14 items-center gap-4 border-b bg-background/60 dark:bg-background/80 px-4 lg:h-[60px] lg:px-6 sticky top-0">
           <Sheet>
             <SheetTrigger asChild>
               <Button variant="outline" size="icon" className="shrink-0 md:hidden">
