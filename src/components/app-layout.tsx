@@ -50,7 +50,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
           <div className="flex h-14 items-center border-b px-4 lg:h-[60px] lg:px-6">
             <Link href="/" className="flex items-center gap-2 font-semibold">
               <Image src="/ittclogo.png" alt="Iron Temple Training Center Logo" width={32} height={32} />
-              <span className="font-headline text-lg">Iron Temple Training Center</span>
+              <span className="font-headline text-lg whitespace-nowrap">Iron Temple Training Center</span>
             </Link>
           </div>
           <div className="flex-1">
@@ -59,7 +59,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
         </div>
       </div>
       <div className="flex flex-col">
-        <header className="flex h-14 items-center gap-4 border-b bg-muted/40 px-4 lg:h-[60px] lg:px-6">
+        <header className="flex h-14 items-center gap-4 border-b bg-background/60 dark:bg-background/80 px-4 lg:h-[60px] lg:px-6">
           <Sheet>
             <SheetTrigger asChild>
               <Button variant="outline" size="icon" className="shrink-0 md:hidden">
@@ -71,7 +71,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
               <div className="flex h-14 items-center border-b px-4">
                  <Link href="/" className="flex items-center gap-2 font-semibold">
                   <Image src="/ittclogo.png" alt="Iron Temple Training Center Logo" width={32} height={32} />
-                  <span className="font-headline text-lg">Iron Temple Training Center</span>
+                  <span className="font-headline text-lg whitespace-nowrap">Iron Temple Training Center</span>
                 </Link>
               </div>
               <NavContent />
@@ -80,7 +80,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
           <div className="w-full flex-1" />
           <UserNav />
         </header>
-        <main className="flex flex-1 flex-col gap-4 bg-background">
+        <main className="flex flex-1 flex-col gap-4 bg-background/60 dark:bg-background/80">
           {children}
         </main>
       </div>
