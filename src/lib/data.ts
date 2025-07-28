@@ -4,7 +4,7 @@ export const TRAINING_MODULES: TrainingModule[] = [
   {
     id: 'de-escalate-to-safe-state',
     title: 'De-escalate to Safe State',
-    description: 'Master techniques for peacefully resolving conflict.',
+    description: 'Ensuring Safety and Effective Communication in Healthcare Settings',
     longDescription: 'This module provides comprehensive training on de-escalation techniques. Learn to recognize signs of agitation, use verbal and non-verbal communication to calm tense situations, and guide interactions towards a safe and positive outcome. Ideal for professionals in security, customer service, and law enforcement.',
     image: '/de-escalate-banner.jpg',
     imageHint: 'healthcare professionals',
@@ -13,8 +13,7 @@ export const TRAINING_MODULES: TrainingModule[] = [
     content: {
       videos: [
         { title: 'Introduction to De-escalation', url: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
-        { title: 'Verbal Judo Basics', url: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
-        { title: 'Body Language and Proxemics', url: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
+       
       ],
       documents: [{ title: 'De-escalation Handbook (PDF)', url: '#' }],
     },
@@ -31,7 +30,6 @@ export const TRAINING_MODULES: TrainingModule[] = [
     content: {
       videos: [
         { title: 'Stance and Balance', url: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
-        { title: 'Basic Escort Position', url: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
       ],
       documents: [{ title: 'RCT Module 1 Guide (PDF)', url: '#' }],
     },
@@ -48,7 +46,6 @@ export const TRAINING_MODULES: TrainingModule[] = [
     content: {
       videos: [
         { title: 'Controlled Takedowns', url: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
-        { title: 'Introduction to Ground Control', url: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
       ],
       documents: [{ title: 'RCT Module 2 Manual (PDF)', url: '#' }],
     },
@@ -65,7 +62,6 @@ export const TRAINING_MODULES: TrainingModule[] = [
     content: {
       videos: [
         { title: 'Weapon Disarmament', url: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
-        { title: 'Defense Against Multiple Subjects', url: 'https://www.youtube.com/embed/dQw4w9WgXcQ' },
       ],
       documents: [{ title: 'RCT Module 3 Advanced Guide (PDF)', url: '#' }],
     },
