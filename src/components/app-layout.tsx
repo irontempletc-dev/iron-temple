@@ -58,8 +58,8 @@ export function AppLayout({ children }: { children: ReactNode }) {
           </div>
         </div>
       </div>
-      <div className="flex flex-col bg-background/60 dark:bg-background/80">
-        <header className="flex h-14 items-center gap-4 border-b px-4 lg:h-[60px] lg:px-6">
+      <div className="flex flex-col">
+        <header className="flex h-14 items-center gap-4 border-b bg-background/60 dark:bg-background/80 px-4 lg:h-[60px] lg:px-6 sticky top-0 z-30">
           <Sheet>
             <SheetTrigger asChild>
               <Button variant="outline" size="icon" className="shrink-0 md:hidden">
@@ -80,7 +80,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
           <div className="w-full flex-1" />
           <UserNav />
         </header>
-        <main className="flex flex-1 flex-col gap-4">
+        <main className="flex flex-1 flex-col gap-4 bg-background/60 dark:bg-background/80">
           {children}
         </main>
       </div>
