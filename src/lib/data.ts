@@ -6,7 +6,7 @@ export const TRAINING_MODULES: TrainingModule[] = [
     title: 'De-escalate to Safe State',
     description: 'Master techniques for peacefully resolving conflict.',
     longDescription: 'This module provides comprehensive training on de-escalation techniques. Learn to recognize signs of agitation, use verbal and non-verbal communication to calm tense situations, and guide interactions towards a safe and positive outcome. Ideal for professionals in security, customer service, and law enforcement.',
-    image: '/de-escalate-banner.png',
+    image: '/de-escalate-banner.jpg',
     imageHint: 'healthcare professionals',
     price: 49.99,
     purchased: true,
