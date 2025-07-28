@@ -21,7 +21,7 @@ export default function RootLayout({
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet" />
       </head>
       <body>
-        <div className="font-body antialiased min-h-screen bg-background/80 dark:bg-background/90">
+        <div className="font-body antialiased min-h-screen bg-background/60 dark:bg-background/80">
           {children}
         </div>
         <Toaster />
