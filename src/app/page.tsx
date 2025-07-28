@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <AppLayout>
       <div className="flex-1 space-y-4 px-8 pb-8 bg-background/60 dark:bg-background/80">
-        <div className="flex items-center justify-between space-y-2 pt-8">
+        <div className="flex items-center justify-between space-y-2">
           <h1 className="text-3xl font-bold tracking-tight font-headline">Training Modules</h1>
         </div>
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
