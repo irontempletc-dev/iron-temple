@@ -6,13 +6,13 @@ import {
   Menu,
   Users,
 } from 'lucide-react';
+import Image from 'next/image';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import type { ReactNode } from 'react';
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import { cn } from '@/lib/utils';
-import { IronTempleLogo } from './icons';
 import { UserNav } from './user-nav';
 
 const navItems = [
@@ -49,7 +49,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
         <div className="flex h-full max-h-screen flex-col gap-2">
           <div className="flex h-14 items-center border-b px-4 lg:h-[60px] lg:px-6">
             <Link href="/" className="flex items-center gap-2 font-semibold">
-              <IronTempleLogo className="h-8 w-8" />
+              <Image src="/ittc-logo.jpg" alt="Iron Temple Training Center Logo" width={32} height={32} className="rounded-full" />
               <span className="font-headline text-lg">Iron Temple</span>
             </Link>
           </div>
@@ -70,7 +70,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
             <SheetContent side="left" className="flex flex-col">
               <div className="flex h-14 items-center border-b px-4">
                  <Link href="/" className="flex items-center gap-2 font-semibold">
-                  <IronTempleLogo className="h-8 w-8" />
+                  <Image src="/ittc-logo.jpg" alt="Iron Temple Training Center Logo" width={32} height={32} className="rounded-full" />
                   <span className="font-headline text-lg">Iron Temple</span>
                 </Link>
               </div>
