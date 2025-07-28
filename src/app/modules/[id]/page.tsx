@@ -31,7 +31,7 @@ export default function ModulePage({ params }: { params: { id: string } }) {
 
   return (
     <AppLayout>
-      <div className="flex-1 space-y-4 px-8 pb-8 bg-background/60 dark:bg-background/80">
+      <div className="flex-1 space-y-4 px-8 pb-8">
         <div className="space-y-2 mb-6">
           <h1 className="text-4xl font-bold tracking-tight font-headline">{module.title}</h1>
           <p className="text-lg text-muted-foreground">{module.description}</p>
