@@ -80,7 +80,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
           <div className="w-full flex-1" />
           <UserNav />
         </header>
-        <main className="flex flex-1 flex-col bg-background/60 dark:bg-background/80">
+        <main className="flex flex-1 flex-col">
           {children}
         </main>
       </div>

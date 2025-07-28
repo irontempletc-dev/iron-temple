@@ -10,7 +10,7 @@ import { AppLayout } from '@/components/app-layout';
 export default function GlossaryPage() {
   return (
     <AppLayout>
-      <div className="flex-1 space-y-4 px-4 pb-4 pt-8 sm:px-8 sm:pb-8">
+      <div className="flex-1 space-y-4 p-8 pt-6 bg-background/60 dark:bg-background/80">
         <div className="flex items-center justify-between space-y-2">
           <h1 className="text-3xl font-bold tracking-tight font-headline">Glossary of Terms</h1>
         </div>
