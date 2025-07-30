@@ -83,7 +83,7 @@ export default function ModulePage({ params }: { params: { id: string } }) {
                    <CardContent>
                      <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden border">
                         <iframe
-                            src="/de-escalate/index.html"
+                            src="/de-escalate/res/index.html"
                             title="De-escalate to Safe State Experience"
                             allow="encrypted-media"
                             className="w-full h-[600px]"
