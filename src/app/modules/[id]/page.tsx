@@ -66,7 +66,6 @@ export default function ModulePage({ params }: { params: { id: string } }) {
                     <CardContent className="space-y-4">
                       {module.content.videos.map((video) => (
                         <div key={video.title} className="flex items-center gap-4 rounded-md border p-4">
-                          <Video className="h-6 w-6 text-accent" />
                           <div className="flex-grow">
                             <h3 className="font-semibold">{video.title}</h3>
                           </div>
