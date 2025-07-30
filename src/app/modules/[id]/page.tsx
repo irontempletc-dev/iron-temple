@@ -74,19 +74,19 @@ export default function ModulePage({ params }: { params: { id: string } }) {
             </TabsContent>
             <TabsContent value="videos" className="mt-6">
               {module.id === 'de-escalate-to-safe-state' ? (
-                 <Card>
+                 <Card className="overflow-hidden">
                    <CardHeader>
                      <CardTitle className="font-headline flex items-center gap-2">
                        <ClipboardCheck /> Interactive Experience
                      </CardTitle>
                    </CardHeader>
-                   <CardContent>
-                      <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden border">
+                   <CardContent className="p-0">
+                      <div className="aspect-video w-full rounded-lg overflow-hidden">
                         <iframe
                             src="/de-escalate/res/index.html"
                             title="De-escalate to Safe State Experience"
                             allow="encrypted-media"
-                            className="w-full h-full"
+                            className="w-full h-full border-0"
                         ></iframe>
                       </div>
                    </CardContent>
@@ -100,7 +100,7 @@ export default function ModulePage({ params }: { params: { id: string } }) {
                     {module.content.videos.map((video) => (
                       <div key={video.title}>
                         <h3 className="font-semibold text-lg mb-2">{video.title}</h3>
-                         <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden border">
+                         <div className="aspect-video rounded-lg overflow-hidden border">
                            <iframe
                             src={video.url}
                             title={video.title}
