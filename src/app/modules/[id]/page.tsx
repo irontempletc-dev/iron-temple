@@ -116,17 +116,37 @@ export default function ModulePage({ params }: { params: { id: string } }) {
               </Card>
             </TabsContent>
             <TabsContent value="post-test" className="mt-6">
-              <Card>
-                <CardHeader>
-                  <CardTitle className="font-headline flex items-center gap-2">
-                    <ClipboardCheck /> Post-Test
-                  </CardTitle>
-                </CardHeader>
-                <CardContent className="text-center space-y-4">
-                  <p>You must complete all video and document sections to unlock the post-test.</p>
-                  <Button disabled>Start Test</Button>
-                </CardContent>
-              </Card>
+              {module.id === 'de-escalate-to-safe-state' ? (
+                 <Card>
+                   <CardHeader>
+                     <CardTitle className="font-headline flex items-center gap-2">
+                       <ClipboardCheck /> Post-Test
+                     </CardTitle>
+                   </CardHeader>
+                   <CardContent>
+                     <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden border">
+                        <iframe
+                            src="/de-escalate/index.html"
+                            title="De-escalate to Safe State Post-Test"
+                            allow="encrypted-media"
+                            className="w-full h-[600px]"
+                        ></iframe>
+                     </div>
+                   </CardContent>
+                 </Card>
+              ) : (
+                <Card>
+                    <CardHeader>
+                    <CardTitle className="font-headline flex items-center gap-2">
+                        <ClipboardCheck /> Post-Test
+                    </CardTitle>
+                    </CardHeader>
+                    <CardContent className="text-center space-y-4">
+                    <p>You must complete all video and document sections to unlock the post-test.</p>
+                    <Button disabled>Start Test</Button>
+                    </CardContent>
+                </Card>
+              )}
             </TabsContent>
             <TabsContent value="certificate" className="mt-6">
               <Card>
