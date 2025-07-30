@@ -77,15 +77,19 @@ export default function ModulePage({ params }: { params: { id: string } }) {
                 <CardHeader>
                   <CardTitle className="font-headline">Training Videos</CardTitle>
                 </CardHeader>
-                <CardContent className="space-y-4">
+                <CardContent className="space-y-6">
                   {module.content.videos.map((video) => (
-                    <div key={video.title} className="flex items-center gap-4 rounded-md border p-4">
-                      <div className="flex-grow">
-                        <h3 className="font-semibold">{video.title}</h3>
+                    <div key={video.title}>
+                      <h3 className="font-semibold text-lg mb-2">{video.title}</h3>
+                       <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden border">
+                         <iframe
+                          src={video.url}
+                          title={video.title}
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                          allowFullScreen
+                          className="w-full h-full"
+                        ></iframe>
                       </div>
-                      <Button asChild>
-                        <Link href={video.url} target="_blank">Watch</Link>
-                      </Button>
                     </div>
                   ))}
                 </CardContent>

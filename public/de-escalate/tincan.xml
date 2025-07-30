@@ -1,0 +1,670 @@
+<?xml version="1.0"?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<activities>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">de-escalate</name>
+			<description lang="und"/>
+			<launch>res/index.html</launch>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">De-escalation Course Introduction</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">De-escalation Course Introduction</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">De-escalation Course Introduction</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">De-escalation Course Introduction</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Skills for Crisis Intervention</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">3 Areas of Awareness</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Personal Awareness</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Work Efficiency</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Wear Logical Clothing</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Mindful</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/10" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Stay Healthy</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/11" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Stay Healthy</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/12" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Continue Training</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/13" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/14" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/15" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/16" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/17" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/18" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Wear Logical Clothing</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/19" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Environmental Awareness</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/20" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Understand Our Environment</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/21" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Environmental Awareness</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/22" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Know the Layout</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/23" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scanning The Environment</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/24" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scanning Our Environment</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/25" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Being Aware</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/26" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Door Function</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/27" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reactionary Gap</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/28" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Creating a Safe Space to Achieve a Safe State</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/29" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Room Layout</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/30" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Environmental Awareness: The Room</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/31" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Use Your Environment</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/32" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Barriers</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/33" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Signs of Violence Quiz 1</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/34" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Awareness Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/35" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Awareness Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/36" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Awareness Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/37" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Awareness Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/38" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reactionary Gap</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/39" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Natural Barriers</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/40" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Environmental Awareness: Summary</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/41" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Create a Safe Space</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/42" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Sphere of Influence</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/43" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Sphere of Influence</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/44" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Sphere of Influence</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/45" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/46" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/47" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/48" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/49" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/50" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Understand Our Environment</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/51" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Situational Awareness</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/52" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Communicate</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/53" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Using Effective Body Language</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/54" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Use Effective Body Language</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/55" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Use Effective Body Language</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/56" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Assess the Situation</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/57" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mental and Behavioral Awareness</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/58" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mental Health</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/59" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mental Health</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/60" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Opioid Epidemic</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/61" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Emotionally Charged Environments</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/62" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Awareness Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/63" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Awareness Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/64" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Awareness Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/65" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Awareness Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/66" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Awareness Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/67" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Assess the Situation</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/68" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction to Trauma-Informed Care</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/69" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Understanding Trauma</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/70" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Importance of Trauma-Informed Care</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/71" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Key Elements of Trauma Informed Care</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/72" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Benefits of Trauma-Informed Care</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/73" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Trauma-Informed Care Case Study</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/74" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Trauma-Informed Care Conclusion</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/75" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/76" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/77" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/78" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/79" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/80" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Key Elements of Trauma Informed Care</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/81" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Watch Your Tone</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/82" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Watch Your Tone</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/83" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Using "I" Language</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/84" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Using "I" Language</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/85" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Using "I" Language</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/86" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Seek Common Ground</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/87" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Seek a Common Ground</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/88" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Seek a Common Ground</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/89" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Seek a Common Ground</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/90" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Engage in Active Listening</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/91" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Engage in Active Listening</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/92" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Engage in Active Listening</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/93" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Engage in Active Listening</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/94" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Engage in Active Listening</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/95" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Engage in Active Listening</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/96" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Being Aware of the Signs of Violence</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/97" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Being Aware of the Signs of Violence</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/98" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction to Workplace Violence</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/99" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Violent Acts by Criminals</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/100" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Patient Violence Directed at Employees</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/101" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Violence Against Co-workers</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/102" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Domestic Violence</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/103" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Ideological Violence</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/104" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Signs of Violence</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/105" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Facial Expressions</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/106" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Facial Expressions</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/107" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Facial Expressions</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/108" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Facial Expressions</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/109" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Facial Expressions</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/110" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Facial Expressions</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/111" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Facial Expressions</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/112" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Other Behaviors</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/113" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Recognize the Signs</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/114" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Use Barriers</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/115" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Call Security</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/116" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/117" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/118" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/119" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/120" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Expectations Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/121" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Facial Expressions</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/122" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Prevention Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/123" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Prevention Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/124" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Prevention Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/125" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Prevention Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/126" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tension Escalation Prevention Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/127" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Recognize the Signs</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/128" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tips for Crisis Intervention</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/129" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Power of Non-escalation</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/130" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">5 Tips for Crisis Intervention</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/131" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">5 Tips for Crisis Intervention</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/132" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Maintaining Professionalism and Staying Calm</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/133" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Have any of these happened to you?</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/134" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Examples of Professionalism</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/135" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathetic Approach</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/136" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">4 R's in Empathy</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/137" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathetic Approach Scenario</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/138" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathetic Approach Scenario</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/139" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Know Your Role</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/140" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Steps to Active Listening: Know Your Role</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/141" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Steps to Active Listening: Know Your Limits</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/142" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Patient</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/143" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Patient</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/144" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Provide Options</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/145" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Flexible</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/146" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Flexible</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/147" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Flexible Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/148" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Flexible Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/149" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Flexible Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/150" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Flexible Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/151" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Flexible Quiz</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/152" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Flexible Quiz Reference Page</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/153" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What to do in Escalating Situations Scenario</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/154" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What to do in Escalating Situations Scenario</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/155" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What to do in Escalating Situations Scenario</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/156" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What to do in Escalating Situations Scenario</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/157" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What to do in Escalating Situations Scenario</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/158" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What to do in Escalating Situations Scenario</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/159" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Review</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/160" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Handling Difficult Patients in Healthcare</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/161" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Handling Difficult Patients in Healthcare</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/162" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Handling Difficult Patients in Healthcare</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/163" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thank You</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/CF79E7C2-459F-42F7-B018-786D4B0B2B4B/slides/164" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Post Test Instructions</name>
+			<description lang="und"/>
+		</activity>
+	</activities>
+</tincan>
