@@ -42,9 +42,9 @@ export default function ModulePage({ params }: { params: { id: string } }) {
             <TabsList className="grid w-full grid-cols-5 bg-muted/60">
               <TabsTrigger value="details">Details</TabsTrigger>
               <TabsTrigger value="videos">Videos</TabsTrigger>
-              <TabsTrigger value="documents">Documents</TabsTrigger>
               <TabsTrigger value="post-test">Post Test</TabsTrigger>
               <TabsTrigger value="certificate">Certificate</TabsTrigger>
+              <TabsTrigger value="documents">Documents</TabsTrigger>
             </TabsList>
             <TabsContent value="details" className="mt-6">
               <div className="grid gap-8 md:grid-cols-3">
@@ -115,26 +115,6 @@ export default function ModulePage({ params }: { params: { id: string } }) {
                 </Card>
               )}
             </TabsContent>
-            <TabsContent value="documents" className="mt-6">
-                <Card>
-                <CardHeader>
-                  <CardTitle className="font-headline">Instructional Booklets</CardTitle>
-                </CardHeader>
-                <CardContent className="space-y-4">
-                  {module.content.documents.map((doc) => (
-                    <div key={doc.title} className="flex items-center gap-4 rounded-md border p-4">
-                        <FileText className="h-6 w-6 text-accent" />
-                        <div className="flex-grow">
-                            <h3 className="font-semibold">{doc.title}</h3>
-                        </div>
-                        <Button asChild>
-                            <Link href={doc.url} target="_blank">Download</Link>
-                        </Button>
-                    </div>
-                  ))}
-                </CardContent>
-              </Card>
-            </TabsContent>
             <TabsContent value="post-test" className="mt-6">
               <Card>
                   <CardHeader>
@@ -158,6 +138,26 @@ export default function ModulePage({ params }: { params: { id: string } }) {
                 <CardContent className="text-center space-y-4">
                   <p>You must pass the post-test with a score of 80% or higher to receive your certificate.</p>
                   <Button disabled>Download Certificate</Button>
+                </CardContent>
+              </Card>
+            </TabsContent>
+            <TabsContent value="documents" className="mt-6">
+                <Card>
+                <CardHeader>
+                  <CardTitle className="font-headline">Instructional Booklets</CardTitle>
+                </CardHeader>
+                <CardContent className="space-y-4">
+                  {module.content.documents.map((doc) => (
+                    <div key={doc.title} className="flex items-center gap-4 rounded-md border p-4">
+                        <FileText className="h-6 w-6 text-accent" />
+                        <div className="flex-grow">
+                            <h3 className="font-semibold">{doc.title}</h3>
+                        </div>
+                        <Button asChild>
+                            <Link href={doc.url} target="_blank">Download</Link>
+                        </Button>
+                    </div>
+                  ))}
                 </CardContent>
               </Card>
             </TabsContent>
