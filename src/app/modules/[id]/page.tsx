@@ -6,7 +6,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { TRAINING_MODULES } from '@/lib/data';
 import { AppLayout } from '@/components/app-layout';
-import { FileText, Lock, Video } from 'lucide-react';
+import { FileText, Lock, Video, Award, ClipboardCheck } from 'lucide-react';
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
 
 export default function ModulePage({ params }: { params: { id: string } }) {
@@ -41,10 +41,12 @@ export default function ModulePage({ params }: { params: { id: string } }) {
           <div className="md:col-span-2">
             {module.purchased ? (
               <Tabs defaultValue="details" className="w-full">
-                <TabsList className="grid w-full grid-cols-3 bg-muted/60">
+                <TabsList className="grid w-full grid-cols-5 bg-muted/60">
                   <TabsTrigger value="details">Details</TabsTrigger>
                   <TabsTrigger value="videos">Videos</TabsTrigger>
                   <TabsTrigger value="documents">Documents</TabsTrigger>
+                  <TabsTrigger value="post-test">Post Test</TabsTrigger>
+                  <TabsTrigger value="certificate">Certificate</TabsTrigger>
                 </TabsList>
                 <TabsContent value="details" className="mt-6">
                   <Card>
@@ -93,6 +95,32 @@ export default function ModulePage({ params }: { params: { id: string } }) {
                             </Button>
                         </div>
                       ))}
+                    </CardContent>
+                  </Card>
+                </TabsContent>
+                <TabsContent value="post-test" className="mt-6">
+                  <Card>
+                    <CardHeader>
+                      <CardTitle className="font-headline flex items-center gap-2">
+                        <ClipboardCheck /> Post-Test
+                      </CardTitle>
+                    </CardHeader>
+                    <CardContent className="text-center space-y-4">
+                      <p>You must complete all video and document sections to unlock the post-test.</p>
+                      <Button disabled>Start Test</Button>
+                    </CardContent>
+                  </Card>
+                </TabsContent>
+                <TabsContent value="certificate" className="mt-6">
+                  <Card>
+                    <CardHeader>
+                      <CardTitle className="font-headline flex items-center gap-2">
+                        <Award /> Certificate of Completion
+                      </CardTitle>
+                    </CardHeader>
+                    <CardContent className="text-center space-y-4">
+                      <p>You must pass the post-test with a score of 80% or higher to receive your certificate.</p>
+                      <Button disabled>Download Certificate</Button>
                     </CardContent>
                   </Card>
                 </TabsContent>
