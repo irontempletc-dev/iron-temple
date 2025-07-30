@@ -73,27 +73,47 @@ export default function ModulePage({ params }: { params: { id: string } }) {
               </div>
             </TabsContent>
             <TabsContent value="videos" className="mt-6">
-              <Card>
-                <CardHeader>
-                  <CardTitle className="font-headline">Training Videos</CardTitle>
-                </CardHeader>
-                <CardContent className="space-y-6">
-                  {module.content.videos.map((video) => (
-                    <div key={video.title}>
-                      <h3 className="font-semibold text-lg mb-2">{video.title}</h3>
-                       <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden border">
-                         <iframe
-                          src={video.url}
-                          title={video.title}
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                          allowFullScreen
-                          className="w-full h-full"
+              {module.id === 'de-escalate-to-safe-state' ? (
+                 <Card>
+                   <CardHeader>
+                     <CardTitle className="font-headline flex items-center gap-2">
+                       <ClipboardCheck /> Interactive Experience
+                     </CardTitle>
+                   </CardHeader>
+                   <CardContent>
+                     <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden border">
+                        <iframe
+                            src="/de-escalate/index.html"
+                            title="De-escalate to Safe State Experience"
+                            allow="encrypted-media"
+                            className="w-full h-[600px]"
                         ></iframe>
+                     </div>
+                   </CardContent>
+                 </Card>
+              ) : (
+                <Card>
+                  <CardHeader>
+                    <CardTitle className="font-headline">Training Videos</CardTitle>
+                  </CardHeader>
+                  <CardContent className="space-y-6">
+                    {module.content.videos.map((video) => (
+                      <div key={video.title}>
+                        <h3 className="font-semibold text-lg mb-2">{video.title}</h3>
+                         <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden border">
+                           <iframe
+                            src={video.url}
+                            title={video.title}
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowFullScreen
+                            className="w-full h-full"
+                          ></iframe>
+                        </div>
                       </div>
-                    </div>
-                  ))}
-                </CardContent>
-              </Card>
+                    ))}
+                  </CardContent>
+                </Card>
+              )}
             </TabsContent>
             <TabsContent value="documents" className="mt-6">
                 <Card>
@@ -116,37 +136,17 @@ export default function ModulePage({ params }: { params: { id: string } }) {
               </Card>
             </TabsContent>
             <TabsContent value="post-test" className="mt-6">
-              {module.id === 'de-escalate-to-safe-state' ? (
-                 <Card>
-                   <CardHeader>
-                     <CardTitle className="font-headline flex items-center gap-2">
-                       <ClipboardCheck /> Post-Test
-                     </CardTitle>
-                   </CardHeader>
-                   <CardContent>
-                     <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden border">
-                        <iframe
-                            src="/de-escalate/index.html"
-                            title="De-escalate to Safe State Post-Test"
-                            allow="encrypted-media"
-                            className="w-full h-[600px]"
-                        ></iframe>
-                     </div>
-                   </CardContent>
-                 </Card>
-              ) : (
-                <Card>
-                    <CardHeader>
-                    <CardTitle className="font-headline flex items-center gap-2">
-                        <ClipboardCheck /> Post-Test
-                    </CardTitle>
-                    </CardHeader>
-                    <CardContent className="text-center space-y-4">
-                    <p>You must complete all video and document sections to unlock the post-test.</p>
-                    <Button disabled>Start Test</Button>
-                    </CardContent>
-                </Card>
-              )}
+              <Card>
+                  <CardHeader>
+                  <CardTitle className="font-headline flex items-center gap-2">
+                      <ClipboardCheck /> Post-Test
+                  </CardTitle>
+                  </CardHeader>
+                  <CardContent className="text-center space-y-4">
+                  <p>You must complete all video and document sections to unlock the post-test.</p>
+                  <Button disabled>Start Test</Button>
+                  </CardContent>
+              </Card>
             </TabsContent>
             <TabsContent value="certificate" className="mt-6">
               <Card>
