@@ -1,0 +1,242 @@
+<?xml version="1.0"?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<activities>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">rct-3</name>
+			<description lang="und"/>
+			<launch>res/index.html</launch>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Response Control Techniques (RCT) Module 3 Introduction</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Response Control Techniques (RCT) Module 3</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Response Control Techniques (RCT) Module 3</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Intro to Utilizing De-escalation Techniques</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">De-escalation Techniques</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Verbal De-escalation</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Maintain a Calm &amp; Professional Demeanor</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/10" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Situation</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/11" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Two Most Important Tools</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/12" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Body Language</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/13" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Body Language</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/14" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Body Language</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/15" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Body Language</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/16" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Common Ground</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/17" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Common Ground</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/18" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Common Ground</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/19" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Active Listening</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/20" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Active Listening</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/21" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Changing Shift</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/22" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Buddy System</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/23" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Code Words</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/24" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Be Prepared</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/25" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Body Language &amp; Attitude</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/26" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Body Language Awareness</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/27" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Posture</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/28" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Gestures</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/29" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Making Eye Contact</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/30" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Power of the Smile</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/31" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Body Awareness</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/32" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Body Language Awareness of Another</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/33" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Avoiding Eye Contact</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/34" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Posture</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/35" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Facial Expressions</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/36" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Gestures</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/37" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Remain Calm</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/38" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bladed Stance</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/39" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quickness</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/40" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Visibility</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/41" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Balance</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/42" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Open Hands</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/43" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Non-threatening Appearance</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/44" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Communication</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/45" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Awareness</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/46" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Accessibility</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/47" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Personal Space</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/48" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Response Plan</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/49" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Buddy System</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/50" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tap or Tell</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/51" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">First Responder</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/52" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Move on Two</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/53" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Transition Techniques</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/54" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">"Cradle" Techniques</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/55" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Levels of Application</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/56" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thank You</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/57" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Post Test Instructions</name>
+			<description lang="und"/>
+		</activity>
+	</activities>
+</tincan>

@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  overflow-y: scroll;
+}
+
 body {
   font-family: 'PT Sans', sans-serif;
 }
@@ -14,7 +18,7 @@ body {
     --card-foreground: 0 0% 98%;
     --popover: 215 28% 11%;
     --popover-foreground: 0 0% 98%;
-    --primary: 45 93% 47%;
+    --primary: 48 68% 63%;
     --primary-foreground: 215 28% 11%;
     --secondary: 215 28% 22%;
     --secondary-foreground: 0 0% 98%;
@@ -26,7 +30,7 @@ body {
     --destructive-foreground: 0 0% 98%;
     --border: 215 28% 22%;
     --input: 215 28% 22%;
-    --ring: 45 93% 47%;
+    --ring: 48 68% 63%;
     --radius: 0.5rem;
   }
   .dark {
@@ -36,7 +40,7 @@ body {
     --card-foreground: 0 0% 98%;
     --popover: 215 28% 11%;
     --popover-foreground: 0 0% 98%;
-    --primary: 45 93% 47%;
+    --primary: 48 68% 63%;
     --primary-foreground: 215 28% 11%;
     --secondary: 215 28% 22%;
     --secondary-foreground: 0 0% 98%;
@@ -48,7 +52,7 @@ body {
     --destructive-foreground: 0 0% 98%;
     --border: 215 28% 22%;
     --input: 215 28% 22%;
-    --ring: 45 93% 47%;
+    --ring: 48 68% 63%;
   }
 }
 

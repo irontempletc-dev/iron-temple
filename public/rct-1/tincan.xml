@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<activities>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">rct-1</name>
+			<description lang="und"/>
+			<launch>res/index.html</launch>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RCT Course Introduction</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RCT Course Introduction</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RCT Course Introduction</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RCT Program</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RCT Program</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathetic Approach &amp; Positive Outcomes</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mental Health Awareness</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RCT Terms</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Response Control Techniques (RCT)</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Utilizing the Path of Least Resistance</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/10" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Trapping, Cradling, and Embracing Techniques of RCT</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/11" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">“Off Balancing” Techniques Help Move Clients Without Resistance</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/12" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Control Using the Three Levels of RCT</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/13" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Levels of Application</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/14" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Levels of Application</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/15" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Levels of Application</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/16" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Working as a Team</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/17" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Wanding Basics</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/18" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Wanding Techniques</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/19" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Wanding Continued</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/20" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">ITTC's Cookie Cutter X - Wanding Technique</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/21" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bag Searches</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/22" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Defending Bladed Objects</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/23" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RCT Firearm Defense</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/24" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">RCT Module 1 Summary</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/25" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thank You</name>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/A492D6D5-4098-4F38-8FBB-598B54920E39/slides/26" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Post Test Instructions</name>
+			<description lang="und"/>
+		</activity>
+	</activities>
+</tincan>

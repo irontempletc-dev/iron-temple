@@ -1,3 +1,4 @@
+'use client'
 import { AppLayout } from '@/components/app-layout';
 import { ModuleCard } from '@/components/module-card';
 import { TRAINING_MODULES } from '@/lib/data';
