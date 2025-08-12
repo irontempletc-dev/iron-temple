@@ -6,6 +6,10 @@ const config: CapacitorConfig = {
   appName: 'Iron Temple Training Hub',
   webDir: 'out',
   bundledWebRuntime: false,
+  server: {
+    hostname: 'irontemple.app',
+    androidScheme: 'https'
+  }
 };
 
 export default config;
