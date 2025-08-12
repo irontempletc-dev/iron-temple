@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">Iron Temple Training Hub</string>
-    <string name="title_activity_main">Iron Temple Training Hub</string>
-    <string name="package_name">com.irontemple.traininghub</string>
-    <string name="custom_url_scheme">com.irontemple.traininghub</string>
-</resources>
