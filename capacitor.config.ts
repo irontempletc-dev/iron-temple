@@ -9,6 +9,9 @@ const config: CapacitorConfig = {
   server: {
     hostname: 'irontemple.app',
     androidScheme: 'https'
+  },
+  android: {
+    path: 'android'
   }
 };
 
