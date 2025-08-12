@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385114284013",
+    "project_id": "iron-temple-training-hub",
+    "storage_bucket": "iron-temple-training-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385114284013:android:61342827fb3c717ad6d1e4",
+        "android_client_info": {
+          "package_name": "com.irontemple.traininghub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIn0ATZn3AfcGU0Fly4LCgdZpxg5rMSP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
